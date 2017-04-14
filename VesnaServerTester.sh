@@ -1,0 +1,1 @@
+java -jar build/VesnaServerTester.jar -i 127.0.0.1 -p 23233 -a /vsn/data -x 403AB8F9 -n 1000 -c 30 -e 1000000
